@@ -1,4 +1,4 @@
-### Good luck to U ^-^! [4chan](https://user-images.githubusercontent.com/94734089/211166244-3ce2c264-fa29-4bcb-a2b2-c6455bb3e277.svg)
+### Good luck to U ^-^! (https://user-images.githubusercontent.com/94734089/211166244-3ce2c264-fa29-4bcb-a2b2-c6455bb3e277.svg)
 
 
 <img src="https://img.shields.io/badge/-Java-%23F08080?style=flat-square&logo=Java8&logoColor=white"/></a>
