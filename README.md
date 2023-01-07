@@ -12,4 +12,4 @@
 
 <img src="https://img.shields.io/badge/-Expo-%23696969?style=flat-square&logo=Expo&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/-Git-%23808080?style=flat-square&logo=Git&logoColor=white"/></a> <img src="https://img.shields.io/badge/-GitHub-%23D3D3D3?style=flat-square&logo=Github&logoColor=white"/></a> <img src="https://img.shields.io/badge/-GitActions-%23808080?style=flat-square&logo=GithubActions&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Git-%239370DB?style=flat-square&logo=Git&logoColor=white"/></a> <img src="https://img.shields.io/badge/-GitHub-%234B0082?style=flat-square&logo=Github&logoColor=white"/></a> <img src="https://img.shields.io/badge/-GitHub%20Actions-%23191970?style=flat-square&logo=GithubActions&logoColor=white"/></a>
