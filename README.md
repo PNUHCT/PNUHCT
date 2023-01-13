@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Backend%20Radiographer&fontSize=70" />
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Backend%20Radiographer&fontSize=70" /><div align="center">
 
 ## ✍🏻 Blog & 🗂 Site
 <div align="center">
