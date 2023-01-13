@@ -18,4 +18,4 @@
   </dev>
 </dev>
 
-<img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nyong9221"/>  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Novice_Neoguri&&show_icons=true&theme=radical"/>
+<img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nyong9221"/>  <img align="right" src="https://https://github-readme-stats.vercel.app/api?username=PNUHCT)](https://github.com/anuraghazra/github-readme-stats"/>
