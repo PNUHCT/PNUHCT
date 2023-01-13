@@ -1,6 +1,5 @@
 # 🌟 Backend | Radiographer 🌟
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnuhct&layout=compact"/>
 
 <div align="left">
   <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nyong9221"/>
@@ -26,3 +25,4 @@
 </div>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnuhct&layout=compact)](https://github.com/pnuhct/github-readme-stats)
