@@ -8,15 +8,8 @@
 
 
 ##🚀 Tools
-<dev>
-  <dev align= "left">
-    <img src="https://img.shields.io/badge/-AWS%20EC2-%23FF4500?style=flat-square&logo=AmazonEC2&logoColor=white"/></a> <img src="https://img.shields.io/badge/-AWS%20S3-%2300CED1?style=flat-square&logo=AmazonS3&logoColor=white"/></a> <img src="https://img.shields.io/badge/-AWS%20RDS-%234169E1?style=flat-square&logo=AmazonRDS&logoColor=white"/></a>
-  </dev>
-  
-  <dev align="right">
-    <img src="https://img.shields.io/badge/-Git-%239370DB?style=flat-square&logo=Git&logoColor=white"/></a> <img src="https://img.shields.io/badge/-GitHub-%234B0082?style=flat-square&logo=Github&logoColor=white"/></a> <img src="https://img.shields.io/badge/-GitHub%20Actions-%23191970?style=flat-square&logo=GithubActions&logoColor=white"/></a>
-  </dev>
-</dev>
+<img src="https://img.shields.io/badge/-AWS%20EC2-%23FF4500?style=flat-square&logo=AmazonEC2&logoColor=white"/></a> <img src="https://img.shields.io/badge/-AWS%20S3-%2300CED1?style=flat-square&logo=AmazonS3&logoColor=white"/></a> <img src="https://img.shields.io/badge/-AWS%20RDS-%234169E1?style=flat-square&logo=AmazonRDS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Git-%239370DB?style=flat-square&logo=Git&logoColor=white"/></a> <img src="https://img.shields.io/badge/-GitHub-%234B0082?style=flat-square&logo=Github&logoColor=white"/></a> <img src="https://img.shields.io/badge/-GitHub%20Actions-%23191970?style=flat-square&logo=GithubActions&logoColor=white"/></a>
 
 <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nyong9221"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=PNUHCT&show_icons=true&theme=synthwave"/>
