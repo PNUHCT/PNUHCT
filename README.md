@@ -26,11 +26,3 @@
 <a href="https://radpro.tistory.com/"><img src="https://img.shields.io/badge/-Tstory-%23A0522D?style=flat-square&logo=tstory&logoColor=white"/></a>
   
 <a href="https://www.notion.so/70c13d70d85c4c7e908819d4ecc18ff7"><img src="https://img.shields.io/badge/-Notion-%23FFF5EE?style=flat-square&logo=Notion&logoColor=white"/></a>
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnuhct&layout=compact)](https://github.com/pnuhct/github-readme-stats)
-</div>
-
-
-
