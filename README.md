@@ -1,7 +1,6 @@
 # 🌟 Backend | Radiographer 🌟
 
-#
-##👩‍🚀 Stack
+## 👩‍🚀 Stack
 <div align="left">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nyong9221"/>
 </div>
@@ -9,8 +8,8 @@
 
 <img src="https://img.shields.io/badge/-React--Native-%231E90FF?style=flat-square&logo=react&logoColor=white"/></a> <img src="https://img.shields.io/badge/-Expo-%23696969?style=flat-square&logo=Expo&logoColor=white"/></a>
 
-#
-##🚀 Tools
+
+## 🚀 Tools
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=pnuhct&show_icons=true&theme=tokyonight"/>
 </div>
