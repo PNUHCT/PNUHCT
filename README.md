@@ -7,6 +7,7 @@
 <a href="https://funny-jacket-871.notion.site/Portfolio-070d4434188140d68f48024b84d36e9c"><img width="90" height="30" src="https://img.shields.io/badge/-Portfolio-%23B22222?style=flat-square&logo=PowerPages&logoColor=white"/></a>
 
 <br/>
+<br/>
 <div align="center">
   <img align="left" width="420" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nyong9221"/>
   
