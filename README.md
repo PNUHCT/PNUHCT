@@ -1,4 +1,6 @@
 # 🌟 Backend | Radiographer 🌟
+<br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnuhct&layout=compact"/>
 
 <div align="left">
   <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nyong9221"/>
@@ -11,6 +13,7 @@
 <br/>
 <br/>
 <br/>
+</div>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=pnuhct&show_icons=true&theme=tokyonight"/>
 
@@ -19,6 +22,7 @@
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/-Git-%239370DB?style=flat-square&logo=Git&logoColor=white"/></a> <img src="https://img.shields.io/badge/-GitHub-%234B0082?style=flat-square&logo=Github&logoColor=white"/></a> <img src="https://img.shields.io/badge/-GitHub%20Actions-%23191970?style=flat-square&logo=GithubActions&logoColor=white"/></a>
+
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnuhct&layout=compact)](https://github.com/pnuhct/github-readme-stats)
+
