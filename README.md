@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Backend&Radiographer&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Backend%20Radiographer&fontSize=40" />
 <div align="center">
   <img align="left" width="500" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nyong9221"/>
   
