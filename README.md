@@ -8,7 +8,7 @@
   
 ## 👩‍🚀 Stack & 🚀 Tools
 #### 📜 Languages & 📚 Frameworks
-<img width="70" height="20" src="https://img.shields.io/badge/-Java-%23F08080?style=flat-square&logo=JAVA&logoColor=white"/></a> <img width="90" height="20" src="https://img.shields.io/badge/-Spring-%2332CD32?style=flat-square&logo=Spring&logoColor=white"/></a> <img width="120" height="20" src="https://img.shields.io/badge/-SpringBoot-%237CFC00?style=flat-square&logo=Springboot&logoColor=white"/></a> <img width="140" height="20" src="https://img.shields.io/badge/-SpringSecurity-brightgreen?style=flat-square&logo=Springsecurity&logoColor=white"/></a> 
+<img width="60" height="20" src="https://img.shields.io/badge/-Java-%23F08080?style=flat-square&logo=JAVA&logoColor=white"/></a> <img width="80" height="20" src="https://img.shields.io/badge/-Spring-%2332CD32?style=flat-square&logo=Spring&logoColor=white"/></a> <img width="100" height="20" src="https://img.shields.io/badge/-SpringBoot-%237CFC00?style=flat-square&logo=Springboot&logoColor=white"/></a> <img width="120" height="20" src="https://img.shields.io/badge/-SpringSecurity-brightgreen?style=flat-square&logo=Springsecurity&logoColor=white"/></a> 
 <br/>
 <img width="140" height="20" src="https://img.shields.io/badge/-React--Native-%231E90FF?style=flat-square&logo=react&logoColor=white"/></a> <img width="90" height="20" src="https://img.shields.io/badge/-Expo-%23696969?style=flat-square&logo=Expo&logoColor=white"/></a>
 
