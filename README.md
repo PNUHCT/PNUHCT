@@ -19,6 +19,7 @@
 <img width="80" height="30" src="https://img.shields.io/badge/-MySQL-%23FFA500?style=flat-square&logo=mysql&logoColor=white"/></a>
 <img width="120" height="30" src="https://img.shields.io/badge/-React--Native-%231E90FF?style=flat-square&logo=react&logoColor=white"/></a>
 <img width="70" height="30" src="https://img.shields.io/badge/-Expo-%23696969?style=flat-square&logo=Expo&logoColor=white"/></a>
+<img width="100" height="30" src="https://img.shields.io/badge/-Firebase-%23FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
 </div>
 <br/>
 <br/>
