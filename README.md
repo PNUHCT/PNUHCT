@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Backend%20Radiographer&fontSize=70" /><div align="center">
 
-## ✍🏻 Blog & 🗂 Site
+## ✍🏻 Blog & 🗂 Link
 <div align="center">
 <a href="https://radpro.tistory.com/"><img width="70" height="30" src="https://img.shields.io/badge/-Tstory-%23A0522D?style=flat-square&logo=Storyblok&logoColor=white"/></a> 
 <a href="https://www.notion.so/70c13d70d85c4c7e908819d4ecc18ff7"><img width="90" height="30" src="https://img.shields.io/badge/-Notion-%23FFF5EE?style=flat-square&logo=Notion&logoColor=black"/></a>
