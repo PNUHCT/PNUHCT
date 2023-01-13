@@ -4,7 +4,7 @@
 </div>
 <br/>
 <div align="center">
-  <img align="left" width="495" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nyong9221"/>
+  <img align="left" width="480" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nyong9221"/>
   
 ## 👩‍🚀 Stack & 🚀 Tools
 #### 📜 Languages & 📚 Frameworks
@@ -19,7 +19,7 @@
 <br/>
 </div>
 
-<img align="left" width="495" src="https://github-readme-stats.vercel.app/api?username=pnuhct&show_icons=true&theme=tokyonight"/>
+<img align="left" width="480" src="https://github-readme-stats.vercel.app/api?username=pnuhct&show_icons=true&theme=tokyonight"/>
 <div align="center">
   
 
