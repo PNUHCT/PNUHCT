@@ -1,8 +1,8 @@
 # 🌟 Backend | Radiographer 🌟
 <br/>
 
-<div align="left">
-  <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nyong9221"/>
+<div align="center">
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nyong9221"/>
 
 ## 👩‍🚀 Stack
 <img src="https://img.shields.io/badge/-Java-%23F08080?style=flat-square&logo=JAVA&logoColor=white"/></a> <img src="https://img.shields.io/badge/-Spring-%2332CD32?style=flat-square&logo=Spring&logoColor=white"/></a> <img src="https://img.shields.io/badge/-SpringBoot-%237CFC00?style=flat-square&logo=Springboot&logoColor=white"/></a> <img src="https://img.shields.io/badge/-SpringSecurity-brightgreen?style=flat-square&logo=Springsecurity&logoColor=white"/></a> 
