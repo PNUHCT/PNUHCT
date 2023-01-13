@@ -23,9 +23,10 @@
 ## ✍🏻 Blog & 🗂 Site
 <br/>
 <div align="left">
-<img src="https://img.shields.io/badge/-Tstory-%23A0522D?style=flat-square&logo=Tstory&logoColor=white"/></a> : radpro.tistory.com/
-
-<img src="https://img.shields.io/badge/-Notion-%23FFF5EE?style=flat-square&logo=Notion&logoColor=white"/></a> : notion.so/70c13d70d85c4c7e908819d4ecc18ff7
+<img src="https://img.shields.io/badge/-Tstory-%23A0522D?style=flat-square&logo=Tstory&logoColor=white"/></a> 
+: radpro.tistory.com/
+<img src="https://img.shields.io/badge/-Notion-%23FFF5EE?style=flat-square&logo=Notion&logoColor=white"/></a> 
+: notion.so/70c13d70d85c4c7e908819d4ecc18ff7
 
 <div align="center">
 
