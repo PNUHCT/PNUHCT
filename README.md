@@ -9,7 +9,7 @@
 <br/>
 <br/>
 <div align="center">
-  <img align="left" width="420" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nyong9221"/>
+  <img align="left" width="420" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=nyong9221"/>
   
 ## 👩‍🚀 Stack & 🚀 Tools
 #### Languages & Frameworks
