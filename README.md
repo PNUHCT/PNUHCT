@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-<img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=pnuhct&show_icons=true&theme=tokyonight"/>
+<img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=pnuhct&show_icons=true&theme=tokyonight&count_private=true"/>
 <div align="center">
   
 #### CI/CD & Management
