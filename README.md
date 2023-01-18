@@ -6,7 +6,7 @@
 <a href="https://www.notion.so/70c13d70d85c4c7e908819d4ecc18ff7"><img width="90" height="30" src="https://img.shields.io/badge/-Notion-%23FFF5EE?style=flat-square&logo=Notion&logoColor=black"/></a>
 <a href="https://bit.ly/neoguri_portfolio"><img width="90" height="30" src="https://img.shields.io/badge/-Portfolio-%23B22222?style=flat-square&logo=PowerPages&logoColor=white"/></a>
 
-<br/>
+<a><text>Click this three Icon</text></a>
 <br/>
 <div align="center">
   <img align="left" width="420" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=nyong9221"/>
