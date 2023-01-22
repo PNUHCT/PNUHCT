@@ -5,7 +5,7 @@
 <a href="https://radpro.tistory.com/"><img width="70" height="30" src="https://img.shields.io/badge/-Tstory-%23A0522D?style=flat-square&logo=Storyblok&logoColor=white"/></a> 
 <a href="https://www.notion.so/70c13d70d85c4c7e908819d4ecc18ff7"><img width="90" height="30" src="https://img.shields.io/badge/-Notion-%23FFF5EE?style=flat-square&logo=Notion&logoColor=black"/></a>
 <a href="https://bit.ly/neoguri_portfolio"><img width="90" height="30" src="https://img.shields.io/badge/-Portfolio-%23B22222?style=flat-square&logo=PowerPages&logoColor=white"/></a>
-<a href="bit.ly/bobaebillim"><img width="120" height="30" src="https://img.shields.io/badge/Project-%EB%B3%B4%EB%B0%B0%EB%B9%8C%EB%A6%BC-%23191970?style=flat-square&logo=PowerPages&logoColor=white"/></a>
+<a href="http://battery-bucket-deploy.s3-website.ap-northeast-2.amazonaws.com/"><img width="120" height="30" src="https://img.shields.io/badge/Project-%EB%B3%B4%EB%B0%B0%EB%B9%8C%EB%A6%BC-%23191970?style=flat-square&logo=PowerPages&logoColor=white"/></a>
 <a href="https://www.notion.so/70c13d70d85c4c7e908819d4ecc18ff7#3406939c3fa548a79b4c5e7029c7162b"><img width="120" height="30" src="https://img.shields.io/badge/Project-D'splayer-%23BF2F7B?style=flat-square&logo=PowerPages&logoColor=white"/></a>
 
   
