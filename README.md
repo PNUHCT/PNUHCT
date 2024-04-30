@@ -14,6 +14,8 @@
   
 
 <a><text>Click this three Icon</text></a>
+<div><text>AWS Freetier 만료로 인해 서비스링크(보배빌림, 우유부단)은 서비스 종료한 상태입니다.</text></div>
+
 <br/>
 <div align="center">
   <img align="left" width="420" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=nyong9221"/>
